@@ -1,0 +1,6 @@
+  
+  .card-container:hover{
+    scale: 1.1;
+    background-color: aqua;
+    transition: all .2s ease-in; 
+  }
